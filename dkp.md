@@ -22,6 +22,7 @@ Sometimes raids are organised informally or targets spawn and a raid force is as
 
 #### Minimum Raid Requirements
 While some of the requirements are hard set by the game some of these are a soft limit. The raid leaders will allow you to join if there is room and your character is capable.
+
 | Raid | Level Requirement |
 | --- | --- |
 | Classic | 46 |
@@ -80,6 +81,7 @@ Characters are required to be active participants during raids are without speci
 
 #### Alt and Box Character DKP Bid Cap
 The guilds goal is to allow main characters to have priority at highly sought after loot and allows alts and boxes to still win gear. Alts and boxes may bid with mains, but, they cannot bid more than a specified amount per item. The cap will increase with new expansions and eventually go away.
+
 | Expansion | Cap |
 | --- | --- |
 | Classic | 15 |
