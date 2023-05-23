@@ -92,6 +92,9 @@ The guilds goal is to allow main characters to have priority at highly sought af
 #### Winning Loot Auctions
 The character that placed a valid bid with the most DKP will win the item. If multiple bids we recieved the character will spend the second highest bid price + 1 DKP.
 
+#### Items No One Bids On
+At the discression of raid and guild leadership, when no one wins a DKP auction the item may be collected for the guild bank, or rolled out to those in attendance or even to other characters not in attendance.
+
 #### How to Bid
 Once your character has attended their first raid and completed their [DKP setup](#dkp-setup) they will be able to bid on loot using the [Open DKP Bidding Tool](https://thehighorder.opendkp.com/#/bid). Select your chacter you wish to bid with and you see see your avaialble DKP. Each item will have its own auction.
 
@@ -113,5 +116,9 @@ Once the attendence has been added to [OpenDKP](https://thehighorder.opendkp.com
 Anyone with special needs please reach out to an officer and they will be happy to accomadate you!
 
 DKP minuses may be given for derailing a raid or being AFK at the guid officers discression.
+
+Do not try to game the DKP system or collude with others. The guild requires everyone work together for the collective fun and loot of the guild members.
+
+Try to be helpful. Every progression server is an opertunity for old players to learn new tricks and new players to experience new content. Be patient and offer suggestions politely. If you are given suggestions (especially from guild leaders) please don't take it personally and try to incorperate it in your play. Long running strategy discussions are best achieved on discord and not during raids.
 
 If you are interested in leading raids please reach out to a guild officer.
