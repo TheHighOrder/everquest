@@ -8,9 +8,9 @@ DKP is tracked and managed using [OpenDKP](https://thehighorder.opendkp.com). Pl
 
 ### Raiding with The High Order
 You may come to as many or as few raids as you wish. When raiding you must observe a few rules:
+* Listen in the discord raid channel (you do not need to speak with a mic).
 * Do not be /anon on raids. We want to make our presence known!
 * Character must meet [minimum raid requirements](#minimum-raid-requirements).
-* Listen in the discord raid channel (you do not need to speak with a mic).
 * Actively participate in the raid.
 
 If you are playing a character that is not your own make sure the raid leader and officers tracking the raid DKP are aware.
@@ -37,7 +37,7 @@ While some of the requirements are hard set by the game some of these are a soft
 #### Mains, Alts and Boxes
 Some players like playing multiple characters at once (boxes) or switching between different characters (alts). You are allowed one designated main at a time and all your other characters in the guild will be considered alts or boxes. Alts and boxes are treated the same and are limited in how much DKP they can bid, but, are allowed to bid alongside mains.
 * You must reach out to guild leadership before your first raid to have guild leadership add the "main" in game note to your character.
-* You may change mains once a month. Currently there is no DKP penalty for main changes, but, your earned DKP does not transfer characters.
+* You may change mains once a month. You will lose half the DKP earned on the new main; the prior main character will not lose any DKP.
 
 Each character must:
 * Meet the minimum raid requirements
@@ -95,14 +95,19 @@ The character that placed a valid bid with the most DKP will win the item. If mu
 #### How to Bid
 Once your character has attended their first raid and completed their [DKP setup](#dkp-setup) they will be able to bid on loot using the [Open DKP Bidding Tool](https://thehighorder.opendkp.com/#/bid). Select your chacter you wish to bid with and you see see your avaialble DKP. Each item will have its own auction.
 
+Make sure to bid as the correct character and all bids for characters other than main should bid as an alt on [OpenDKP](https://thehighorder.opendkp.com/#/bid).
+
 ### Old Items Won with DKP
 As the game progresses you may have items won with DKP replaced by newer gear. Once an item is no longer useful for a character that is heirloom no drop you may give it to other characters on your account. Droppable items won with DKP have special rules at the guild leaders discression. Valuable items, worth about 10 Krono or more must be sold back to the guild for half the DKP originally spent on the item. More common items may be sold back to the guild for half the DKP or at the players discression the item can be sold of given away to other characters. If you are interested in getting rid of a very rare or valuable item won with DKP you must consult the guild leadership.
 
 ### DKP Setup
 Since DKP is tracked per charcters there are a few steps to follow for each character.
-#### Before Raid
-Have an account on 
-#### After Raid
+
+#### Before Your First Raid
+Join the guild on the character and let an office know if your character is a main, alt or box. Make sure you have access to discord. Ensure that you have an account on [OpenDKP](https://thehighorder.opendkp.com).
+
+#### After Your First Raid
+Once the attendence has been added to [OpenDKP](https://thehighorder.opendkp.com) (typically within 24 hours of the raid) you will be able to claim your character. In the [characters](https://thehighorder.opendkp.com/#/characters) section find your character and in the character details claim your character. Once your claim is pending let a guild officer know and they will approve your claim. You character will show in your profile and you will be able to bid on items.
 
 ### Extras
 Anyone with special needs please reach out to an officer and they will be happy to accomadate you!
