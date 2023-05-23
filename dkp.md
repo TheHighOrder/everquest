@@ -73,7 +73,7 @@ There are two primary rules to using DKP.
 * The character bidding must use it's own earned DKP.
 * Items won with DKP cannot be givin to other characters.
 * Items must be usable and useful for the character. That means the items race, class, level, and religion requirements must be met. Raid officers may allow bidding on items that are too low level that would otherwise rot.
-* Do not bid more DKP than the character has earned.
+* Do not bid more DKP than the character has earned. The DKP posted on the website is what you have available when your item drops. The DKP awarded for the current raid is not usable until it has been posted after the raid.
 
 In the event someone bids more DKP than they have for the character the guild officers may impose a penalty taking away DKP up to double the amount that was overbid.
 
@@ -103,7 +103,9 @@ Once your character has attended their first raid and completed their [DKP setup
 Make sure to bid as the correct character and all bids for characters other than main should bid as an alt on [OpenDKP](https://thehighorder.opendkp.com/#/bid).
 
 ### Old Items Won with DKP
-As the game progresses you may have items won with DKP replaced by newer gear. Once an item is no longer useful for a character that is heirloom no drop you may give it to other characters on your account. Droppable items won with DKP have special rules at the guild leaders discression. Valuable items, worth about 10 Krono or more must be sold back to the guild for half the DKP originally spent on the item. More common items may be sold back to the guild for half the DKP or at the players discression the item can be sold of given away to other characters. If you are interested in getting rid of a very rare or valuable item won with DKP you must consult the guild leadership.
+As the game progresses you may have items won with DKP replaced by newer gear. Once an item is no longer useful for a character that is heirloom no drop you may give it to other characters on your account. Droppable items won with DKP have special rules at the guild leaders discression. Valuable items, worth about 10 Krono or more must be sold back to the guild for half the DKP originally spent on the item. 
+
+Items worth under 10KR in the marketplace *may* be sold back for half DKP or kept by that player to be used as they wish for any reason (even to sell for pp). If you are interested in getting rid of a very rare or valuable item won with DKP you must consult the guild leadership.
 
 ### DKP Setup
 Since DKP is tracked per charcters there are a few steps to follow for each character.
