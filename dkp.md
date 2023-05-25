@@ -17,6 +17,12 @@ If you are playing a character that is not your own make sure the raid leader an
 
 The guild has additional resources listed in discord for GINA, raid strategies and useful and recommended potions.
 
+#### Special Raid Items
+While most raid loot is winnable with DKP, some items are especially important for the guild's ability to raid effectively and will be given out or used by guild officers for raids. Examples are:
+ * [Shield of the Immaculate](https://everquest.allakhazam.com/db/item.html?item=1138)
+ * Avatar Weapons will go to appropriate melee first.
+ * Epic quest items will be prioritized to the appropriate classes.
+
 #### Off Night Raids and Special Events
 Sometimes raids are organised informally or targets spawn and a raid force is assembled without prior scheduling. In general these will not use the DKP system (DKP will not be earned or used for item bids) and loot will be rolled out to all characters present. Loot rolled out should still be usable and useful to the character looting. At the guild leaders discression some of these ad-hoc raids will use the DKP system.
 
