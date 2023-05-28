@@ -131,4 +131,6 @@ Do not try to game the DKP system or collude with others. The guild requires eve
 
 Try to be helpful. Every progression server is an opertunity for old players to learn new tricks and new players to experience new content. Be patient and offer suggestions politely. If you are given suggestions (especially from guild leaders) please don't take it personally and try to incorperate it in your play. Long running strategy discussions are best achieved on discord and not during raids.
 
+Have fun! There are guilds that allow their members to kill steal, cause drama, freak out over small accidents or are generally not fun to game with. The High Order does not accept that behavior and you would be better suited in another guild.
+
 If you are interested in leading raids please reach out to a guild officer.
