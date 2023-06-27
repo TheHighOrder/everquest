@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>EQ Spell Diff</title>
+  <title>EQ Spell Filter</title>
   <script>
 	var spellExpansions = {
     "Issuance of Grace Rk. II": 19,
@@ -19034,11 +19034,11 @@
   </script>
 </head>
 <body>
-  <h1>EQ Spell Diff</h1>
+  <h1>EQ Spell Filter by Expansion</h1>
   <ol>
 	<li>Paste the output from missing spells command in the text area</li>
-	<li>Select the highest expansion you want spells for</li>
-	<li>Click diff</li>
+	<li>Select the latest expansion you want spells for</li>
+	<li>Click Filter</li>
   </ol>
   <label for="dropdown">Select an option:</label>
   <select id="dropdown">
@@ -19073,7 +19073,7 @@
     <option value="28">Terror of Luclin</option>
     <option value="29">Night of Shadows</option>
   </select>
-  <button onclick="removeHigherExpansionSpells()">Diff</button>
+  <button onclick="removeHigherExpansionSpells()">Filter</button>
   <br><br>
   <textarea id="textarea" rows="50" cols="100"></textarea>
 </body>
